@@ -5,8 +5,14 @@ Instructions:
 
 * install cabal2macpkg: http://github.com/gregorycollins/cabal2macpkg/tree/master
 
-* run "sudo make setup" twice (to make sure all of your libraries will
-  be installed in the correct topological order).
+* zap your GHC install: "sudo
+  /Library/Frameworks/GHC.framework/Tools/Uninstaller"
+
+* "rm -Rf ~/.ghc ~/.cabal" (just to make sure)
+
+* install a fresh GHC binary package
+
+* make sure cabal-install is installed, run "cabal update"
 
 * run "sudo make" -- this will dump a bunch of .pkg files into a
   subdirectory of build/.
