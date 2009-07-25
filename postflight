@@ -1,0 +1,4 @@
+#! /bin/sh
+
+mkdir -p /usr/local/bin
+ln -sf /Library/Frameworks/HaskellPlatform.framework/bin/* /usr/local/bin
