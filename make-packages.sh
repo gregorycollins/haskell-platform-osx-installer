@@ -1,12 +1,21 @@
 #!/bin/sh
 
-N=0
-NN="000"
+N=1
+NN="001"
 
 function increment {
     let N++
     export NN=`printf "%03d" $N`
 }
+
+
+####### FIRST: make the pre/post-flight packages
+
+HERE=`pwd`
+
+# FIXME: probably should be the same script
+sh pre.sh
+sh post.sh
 
 mkdir -p build
 

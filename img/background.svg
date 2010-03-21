@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="506.84235"
+   height="501.03577"
+   id="svg2889"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="background.svg"
+   inkscape:export-filename="/Users/greg/personal-src/haskell/haskell-platform-osx-installer/img/background.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2891">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2897" />
+    <clipPath
+       id="clip1">
+      <path
+         id="path2970"
+         d="m 0,340.15625 481.89062,0 L 481.89062,0 0,0 0,340.15625 z m 0,0" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective2987"
+       inkscape:persp3d-origin="301.18106 : 141.73226 : 1"
+       inkscape:vp_z="602.36212 : 212.59839 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 212.59839 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="204.50835"
+     inkscape:cy="217.97802"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="796"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2894">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-82.237122,-5.9395294)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3034"
+       width="506.84235"
+       height="501.03577"
+       x="82.237122"
+       y="5.9395294" />
+    <g
+       id="surface0"
+       transform="matrix(0.29589488,0,0,0.29589488,104.61138,22.271681)">
+      <g
+         id="g2973"
+         clip-rule="nonzero"
+         clip-path="url(#clip1)">
+        <path
+           id="path2975"
+           d="M 0,340.15625 113.38672,170.07812 0,0 85.039062,0 198.42578,170.07812 85.039062,340.15625 0,340.15625 z m 0,0"
+           style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           id="path2977"
+           d="M 113.38672,340.15625 226.77344,170.07812 113.38672,0 l 85.03906,0 226.76953,340.15625 -85.03906,0 -70.86328,-106.29688 -70.86719,106.29688 -85.03906,0 z m 0,0"
+           style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           id="path2979"
+           d="m 387.40234,240.94531 -37.79297,-56.6914 132.28125,-0.004 0,56.69531 -94.48828,0 z m 0,0"
+           style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           id="path2981"
+           d="m 330.71094,155.90625 -37.79688,-56.691406 188.97656,-0.0039 0,56.695316 -151.17968,0 z m 0,0"
+           style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2998"
+       style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#666666;fill-opacity:1;stroke:none;font-family:Gill Sans Std;-inkscape-font-specification:Gill Sans Std Bold"
+       transform="matrix(0.76983397,0,0,0.76983397,75.444202,15.032591)"><flowRegion
+         id="flowRegion3000"><rect
+           id="rect3002"
+           width="487.75201"
+           height="151.34296"
+           x="236.88463"
+           y="25.862131"
+           style="font-size:38px;font-weight:bold;fill:#666666;fill-opacity:1;-inkscape-font-specification:Gill Sans Std Bold" /></flowRegion><flowPara
+         id="flowPara3004"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Bold"><flowSpan
+   style="letter-spacing:-3.34814262"
+   id="flowSpan2840">H</flowSpan><flowSpan
+   style="letter-spacing:-1.69643903"
+   id="flowSpan2838">a</flowSpan><flowSpan
+   style="letter-spacing:-2.46754789"
+   id="flowSpan2924">s</flowSpan><flowSpan
+   style="letter-spacing:-3.2900641"
+   id="flowSpan2908">k</flowSpan><flowSpan
+   style="letter-spacing:-1.64503205"
+   id="flowSpan2920">el</flowSpan><flowSpan
+   style="letter-spacing:-3.2900641"
+   id="flowSpan2868">l</flowSpan><flowSpan
+   style="letter-spacing:-1.64503205"
+   id="flowSpan2876"> Pla</flowSpan>t<flowSpan
+   style="letter-spacing:-3.2900641"
+   id="flowSpan2890">f</flowSpan><flowSpan
+   style="letter-spacing:-2.46754789"
+   id="flowSpan2898">o</flowSpan><flowSpan
+   style="letter-spacing:-1.64503205"
+   id="flowSpan2904">r</flowSpan>m</flowPara><flowPara
+         id="flowPara3006"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0.08225161;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Bold"><flowSpan
+   style="letter-spacing:-0.82251602"
+   id="flowSpan2928">2</flowSpan><flowSpan
+   style="letter-spacing:-2.46754789"
+   id="flowSpan2930">0</flowSpan><flowSpan
+   style="letter-spacing:-4.11257982"
+   id="flowSpan2942">1</flowSpan>0<flowSpan
+   style="letter-spacing:-6.58012819"
+   id="flowSpan2952">.</flowSpan><flowSpan
+   style="letter-spacing:-4.11257982"
+   id="flowSpan2968">1</flowSpan><flowSpan
+   style="letter-spacing:-0.82251602"
+   id="flowSpan2978">.</flowSpan><flowSpan
+   style="letter-spacing:-2.46754789"
+   id="flowSpan2980"><flowSpan
+     style="letter-spacing:-1.64503205"
+     id="flowSpan3000">0</flowSpan><flowSpan
+     style="letter-spacing:-1.64503205"
+     id="flowSpan3002">.</flowSpan></flowSpan>0</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3006"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;fill-opacity:1;stroke:none;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std"
+       transform="matrix(0.76983397,0,0,0.76983397,74.177801,-11.703774)"><flowRegion
+         id="flowRegion3008"><rect
+           id="rect3010"
+           width="675.28571"
+           height="435.11099"
+           x="37.835739"
+           y="214.21829"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std" /></flowRegion><flowPara
+         id="flowPara3018"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light">1. (Optionally) uninstall old GHC:</flowPara><flowPara
+         id="flowPara3030"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light" /><flowPara
+         id="flowPara3014"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light" /><flowPara
+         id="flowPara3022"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light">2. Install new GHC:</flowPara><flowPara
+         id="flowPara3024"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light" /><flowPara
+         id="flowPara3032"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light" /><flowPara
+         id="flowPara3026"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Light">3. Install platform:</flowPara></flowRoot>  </g>
+</svg>
