@@ -1,7 +1,7 @@
 PM=/Developer/usr/bin/packagemaker
 
-NM=postflight
-ORD=999
+NM=preflight
+ORD=000
 PKG=build/$ORD-$NM.pkg
 
 TMPDIR="tmp/$NM"
@@ -16,7 +16,7 @@ mkdir -p $SCRIPTSDIR
 
 cat > $PACKAGEINFO <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
-<pkg-info format-version="2" identifier="haskell-platform.postflight" version="1" install-location="/" auth="root">
+<pkg-info format-version="2" identifier="haskell-platform.preflight" version="1" install-location="/" auth="root">
     <payload installKBytes="0" numberOfFiles="0"/>
     <scripts>
         <postinstall file="./postflight"/>
@@ -30,7 +30,7 @@ cp $NM $SCRIPTSDIR/postflight
 
 $PM -o $PKG \
     --root $CONTENTSDIR \
-    --id haskell-platform.postflight \
+    --id haskell-platform.preflight \
     --scripts $SCRIPTSDIR \
     --target 10.5 \
     --root-volume-only \
